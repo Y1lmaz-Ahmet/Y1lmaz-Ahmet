@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **deck of cards game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET / c#**
 
 - 💬 Ask me about **web development**
 
