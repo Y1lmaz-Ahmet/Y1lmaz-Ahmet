@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **becoming a better developer :)**
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **web development**
 
