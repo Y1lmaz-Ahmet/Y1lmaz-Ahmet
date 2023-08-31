@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **becoming a better developer :)**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I'm currently exploring job opportunities, whether it's in **ASP.NET Core** or other technologies like **React**, for **frontend**, **backend**, or **fullstack roles**.
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **ahmet.79@hotmail.be**
-
-- ⚡ Fun fact ****I AM FUNNY.****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
