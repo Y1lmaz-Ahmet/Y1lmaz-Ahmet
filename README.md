@@ -10,9 +10,9 @@
 
 - 🌱 I'm currently exploring job opportunities (front-end developer).
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development / ASP.NET Core MVC**
 
-- 📫 How to reach me **ahmet.79@hotmail.be**
+- 📫 How to reach me **y.ahmet@outlook.be**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
