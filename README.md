@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **becoming a better developer :)**
 
-- 🌱 I'm currently exploring job opportunities (front-end developer).
+- 🌱 I'm currently exploring job opportunities (.NET/C#).
 
 - 💬 Ask me about **web development / ASP.NET Core MVC**
 
