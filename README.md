@@ -57,6 +57,15 @@ I love code!!
 </div>
 
 
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+
+  <!-- Socials -->
+  <a href="https://www.github.com/Y1lmaz-Ahmet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ahmet-yilmaz-0b4288210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+
+</div>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
