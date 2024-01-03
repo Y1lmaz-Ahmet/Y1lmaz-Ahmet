@@ -10,8 +10,8 @@ I love code!!
 * 🧠 I'm learning Python, Automation, Game development, App development, Web development, Data science, Machine learning, Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit, Plotly, Matplotlib
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="font-family: 'Cascadia Code PL', monospace;">
+<h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic;">Languages and Tools:</h3>
+<p align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
