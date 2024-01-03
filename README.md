@@ -11,7 +11,7 @@ I love code!!
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="font-family: 'Cascadia Code PL', monospace;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
