@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I love code!!
 -------------
 
-* 🌍 I'm based in Zele
+* 🌍 I'm based in Belgium, Zele
 * ✉️ You can contact me at [y.ahmet@outlook.be](mailto:y.ahmet@outlook.be)
 * 🚀 I'm currently working on [python projects](http://github.com/Y1lmaz-Ahmet/Python-projects)
 * 🧠 I'm learning Python, Automation, Game development, App development, Web development, Data science, Machine learning, Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit, Plotly, Matplotlib
