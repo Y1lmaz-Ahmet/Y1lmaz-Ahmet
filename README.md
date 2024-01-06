@@ -12,7 +12,7 @@ I love code!!
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic;">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: "#3498db"; color: white; padding: 5px; margin: 5px; border-radius: 5px; width: 80px;">
+    <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: '#3498db'; color: white; padding: 5px; margin: 5px; border-radius: 5px; width: 80px;">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" style="width: 25px; height: 25px; margin-right: 5px;">
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color:"#e74c3c"; color: white; padding: 5px; margin: 5px; border-radius: 5px; width: 80px;">
