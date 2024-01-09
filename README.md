@@ -13,7 +13,7 @@ I love code!!
 # Languages and Tools
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic;">Languages and Tools:</h3>
-<div align="left" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
+<div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <!-- Front-End Frameworks -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #61dafb; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;">
