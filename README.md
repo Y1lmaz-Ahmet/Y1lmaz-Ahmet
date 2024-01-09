@@ -12,7 +12,7 @@ I love code!!
 
 # Languages and Tools
 
-<h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic;">Languages and Tools:</h3>
+<h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
 <div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 500px">
     <!-- Front-End Frameworks -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #61dafb; color: white; padding: 10px; border-radius: 5px;">
