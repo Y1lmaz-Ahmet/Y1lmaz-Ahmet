@@ -40,11 +40,9 @@ I love code!!!
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #f39c12; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <!-- Versiebeheer -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #34495e; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <!-- Webontwikkeling -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;">
     </a>
@@ -54,7 +52,6 @@ I love code!!!
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <!-- Overige -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 40px; height: 40px; margin-right: 10px;">
     </a>
