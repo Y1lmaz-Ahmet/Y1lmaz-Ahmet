@@ -75,7 +75,6 @@ I love code!!!
     </a>
 </div>
 
-
 <b>My GitHub Stats</b>
 
 <div style="display:flex">
