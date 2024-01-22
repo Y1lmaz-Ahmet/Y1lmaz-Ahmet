@@ -23,7 +23,6 @@ I love code!
     <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #61dafb; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <!-- Back-End Frameworks -->
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin-right: 10px;">
     </a>
