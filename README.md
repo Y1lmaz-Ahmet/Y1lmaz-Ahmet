@@ -29,7 +29,6 @@ I love code!
     <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <!-- Databasebeheer -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #f39c12; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 10px;">
     </a>
