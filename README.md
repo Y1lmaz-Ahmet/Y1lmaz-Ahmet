@@ -71,6 +71,7 @@ I love code!
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;">
     </a>
+    
 </div>
 
 <b>My GitHub Stats</b>
