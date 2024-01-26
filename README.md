@@ -44,7 +44,7 @@ I love code!!
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color:#3498db; color: white; padding: 10px; border-radius: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;">
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
