@@ -23,7 +23,6 @@ I love code!!
    <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" style="width: 50px; height: 50px;">
-   <img src="https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 50px; height: 50px;">
    <img src="https://pluralsight2.imgix.net/paths/images/xunit-17f55c98bd.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 50px; height: 50px;">
