@@ -24,7 +24,6 @@ I love code!!
    <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 50px; height: 50px;">
-   <img src="https://pluralsight2.imgix.net/paths/images/xunit-17f55c98bd.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 50px; height: 50px;">
