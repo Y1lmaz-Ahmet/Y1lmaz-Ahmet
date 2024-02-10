@@ -14,42 +14,22 @@ I love code!!
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
 <div>
-# Technologies
-
-## Version Control
 
 ![GIT](https://img.icons8.com/color/48/000000/git.png)
 ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png)
-
-## Issue Tracking
-
 ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-
-## Databases
-
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 ![MS SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-
-## Frontend
-
 ![ReactJs](https://img.icons8.com/color/48/000000/react-native.png)
 ![React Native](https://img.icons8.com/ios-filled/50/000000/react-native.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-
-## Backend
-
 ![.NET/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
 ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
 ![MVC](https://img.icons8.com/ios-filled/50/000000/mvc.png)
 ![API](https://img.icons8.com/color/48/000000/api-settings.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-
-## Testing
 ![Xunit](https://img.icons8.com/windows/32/000000/xunit.png)
-
-## Frontend Technologies
-
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![Javascript](https://img.icons8.com/color/48/000000/javascript.png)
