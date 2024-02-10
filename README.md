@@ -24,7 +24,7 @@ I love code!!
 ![React Native](https://img.icons8.com/ios-filled/50/000000/react-native.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![.NET/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![EF Core]([https://img.icons8.com/officel/80/000000/ef-core.png](https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png))
+![EF Core](https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png)
 ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
 ![MVC](https://img.icons8.com/ios-filled/50/000000/mvc.png)
 ![API](https://img.icons8.com/color/48/000000/api-settings.png)
