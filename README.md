@@ -25,7 +25,6 @@ I love code!!
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![.NET/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![EF Core](https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png)
-<a style="width:50px; height:50px;">https://img.icons8.com/color/48/000000/asp.png</a>
 ![MVC](https://img.icons8.com/ios-filled/50/000000/mvc.png)
 ![API](https://img.icons8.com/color/48/000000/api-settings.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
