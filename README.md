@@ -10,8 +10,6 @@ I love code!!
 * 🧠 I'm learning Python, Automation, Game development, App development, Web development, Data science, Machine learning, Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit, Plotly, Matplotlib
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫
 
-# Languages and Tools
-
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
 <div style="display: flex;">
    <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 50px; height: 50px;">
