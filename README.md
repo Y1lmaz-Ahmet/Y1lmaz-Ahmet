@@ -26,7 +26,7 @@ I love code!!
    <img src="https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 50px; height: 50px;">
-   <img src="https://img.icons8.com/windows/32/000000/xunit.png" style="width: 50px; height: 50px;">
+   <img src="https://pluralsight2.imgix.net/paths/images/xunit-17f55c98bd.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 50px; height: 50px;">
