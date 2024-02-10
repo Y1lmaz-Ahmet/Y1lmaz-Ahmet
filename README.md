@@ -13,30 +13,30 @@ I love code!!
 # Languages and Tools
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
-<div>
+<div style="display: flex;">
+   <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/bitbucket.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/jira.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/mysql.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" style="width: 50px; height: 50px;">
+   <img src="https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/api-settings.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/windows/32/000000/xunit.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/typescript.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" style="width: 50px; height: 50px;">
+   <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 50px; height: 50px;">
+</div>
 
-![GIT](https://img.icons8.com/color/48/000000/git.png)
-![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png)
-![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-![MS SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-![ReactJs](https://img.icons8.com/color/48/000000/react-native.png)
-![React Native](https://img.icons8.com/ios-filled/50/000000/react-native.png)
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-![.NET/C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![EF Core](https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png)
-![MVC](https://img.icons8.com/ios-filled/50/000000/mvc.png)
-![API](https://img.icons8.com/color/48/000000/api-settings.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Xunit](https://img.icons8.com/windows/32/000000/xunit.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![Javascript](https://img.icons8.com/color/48/000000/javascript.png)
-![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-![Sass](https://img.icons8.com/color/48/000000/sass.png)
-</div>    
 
 <b>My GitHub Stats</b>
 
