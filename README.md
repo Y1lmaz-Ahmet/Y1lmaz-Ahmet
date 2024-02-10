@@ -33,7 +33,7 @@ I love code!!
    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/typescript.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 50px; height: 50px;">
-   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" style="width: 50px; height: 50px;">
+   <img src="https://www.drupal.org/files/project-images/screenshot_361.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 50px; height: 50px;">
 </div>
 
