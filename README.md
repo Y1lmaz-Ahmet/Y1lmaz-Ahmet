@@ -33,7 +33,7 @@ I love code!!
 </div>
 
 
-<b>My GitHub Stats</b>
+<h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Github Stats:</h3>
 
 <div style="display:flex">
   <a style="width:400px; font-family: 'Cascadia Code PL', monospace;" href="http://www.github.com/Y1lmaz-Ahmet">
