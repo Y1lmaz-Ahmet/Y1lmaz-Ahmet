@@ -11,7 +11,7 @@ I love code!!
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
-<div style="display: flex;">
+<div style="display: flex; padding:5px">
    <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/bitbucket.png" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/jira.png" style="width: 50px; height: 50px;">
