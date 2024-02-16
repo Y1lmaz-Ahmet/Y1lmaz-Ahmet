@@ -42,5 +42,6 @@ I love code!!
   </a>
   <a style="width:400px; font-family: 'Cascadia Code PL', monospace;" href="http://www.github.com/Y1lmaz-Ahmet">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y1lmaz-Ahmet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style=" width:400px; height:150px"/>
+     
   </a>
 </div>
