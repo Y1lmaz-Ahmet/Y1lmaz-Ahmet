@@ -30,7 +30,6 @@ I love code!!
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 50px; height: 50px;">
    <img src="https://avatars.githubusercontent.com/u/67109815?v=4" style="width: 50px; height: 50px;">
    <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 50px; height: 50px;">
-   
 </div>
 
 
