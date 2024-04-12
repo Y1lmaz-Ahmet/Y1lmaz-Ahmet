@@ -6,9 +6,9 @@ I love code!!
 
 * 🌍 I'm based in Belgium,  Zele
 * ✉️ You can contact me at [y.ahmet@outlook.be](mailto:y.ahmet@outlook.be)
-* 🚀 I'm currently working on [python projects](http://github.com/Y1lmaz-Ahmet/Python-projects) & [.NET/C# projects](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap)
-* 🧠 I'm currently learning C# 
-* ⚡ I'm a code addict, but don't tell ANYONE 🤫
+* 🚀 I'm currently working on self improvements.
+* 🧠 I'm currently searching for a job.
+* ⚡ I'm a code addict, but don't tell ANYONE 🤫.
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
 <div style="display: flex; padding:5px">
