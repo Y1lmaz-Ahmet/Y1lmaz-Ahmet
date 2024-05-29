@@ -6,7 +6,7 @@ I love code!!
 
 * 🌍 I'm based in Belgium,  Zele
 * ✉️ You can contact me at [y.ahmet@outlook.be](mailto:y.ahmet@outlook.be)
-* 🚀 I'm currently working on self improvements.
+* 🚀 I'm currently working on a chat app - [https://github.com/Y1lmaz-Ahmet/06-ChatCollixx].
 * 🧠 I'm currently searching for a job.
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫.
 
