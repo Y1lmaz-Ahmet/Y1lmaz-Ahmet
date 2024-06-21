@@ -16,8 +16,8 @@ Here are some project links:
 
 - [Jobsphere](https://html-css-javascript-job-sphere.vercel.app/)
 - [EnvisionVR](https://html-css-javascript-envision-vr.vercel.app/)
-- [Headphones](https://html-css-javascript-headphones.vercel.app/)
-- [FoodFreak](https://html-css-javascript-foodfreak.vercel.app/)
+- [Headphones](https://html-css-javascript-headphone.vercel.app/)
+- [FoodFreak](https://html-css-javascript-food-freak.vercel.app/)
 - [Vortex](https://html-css-javascript-vortex-x.vercel.app/)
 - [Foodyy](https://html-css-javascript-foodyy.vercel.app/)
 
