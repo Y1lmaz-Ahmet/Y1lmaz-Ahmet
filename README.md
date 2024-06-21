@@ -9,6 +9,17 @@ I love code!!
 * 🚀 I'm currently working on Designing a new Project idea.
 * 🧠 I'm currently searching for a job.
 * ⚡ I'm a code addict, but don't tell ANYONE 🤫.
+  
+# Project Links
+
+Here are some project links:
+
+- [Jobsphere](https://html-css-javascript-job-sphere.vercel.app/)
+- [EnvisionVR](https://html-css-javascript-envision-vr.vercel.app/)
+- [Headphones](https://html-css-javascript-headphones.vercel.app/)
+- [FoodFreak](https://html-css-javascript-foodfreak.vercel.app/)
+- [Vortex](https://html-css-javascript-vortex-x.vercel.app/)
+- [Foodyy](https://html-css-javascript-foodyy.vercel.app/)
 
 <h3 align="left" style="font-family: 'Lucida Handwriting', 'Brush Script MT', cursive; font-style: italic; important!">Languages and Tools:</h3>
 <div style="display: flex; padding:5px">
